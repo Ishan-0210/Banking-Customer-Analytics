@@ -37,7 +37,6 @@ The analysis uses relationships between customers, accounts, loans, transactions
 - **MySQL** – SQL analysis and data exploration
 - **Microsoft Power BI** – Interactive dashboard and visualization
 - **DAX** – Measures and calculated columns
-- **Power Query** – Data preparation
 - **GitHub** – Project documentation and portfolio
 
 ## Data Analysis
