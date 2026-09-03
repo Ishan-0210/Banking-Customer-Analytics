@@ -114,6 +114,8 @@ Provides analysis of:
 
 ![Transactions](Transactions.png)
 
+## The Power BI `.pbix` file is not included in this repository because of GitHub's file-size limitation.
+
 ## Key Insights
 
 - Customer credit profiles vary across multiple credit score categories.
